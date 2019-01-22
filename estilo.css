@@ -49,6 +49,10 @@ body {
   text-align: center;
 }
 
+.texto {
+  text-align: center;
+}
+
 h1 {
   font-size: 2.5rem;
 }
@@ -125,6 +129,8 @@ time {
   font-size: 1.2rem;
   font-weight: bold;
   margin-bottom: 8px;
+  font-weight: bold;
+ 
 }
 
 
