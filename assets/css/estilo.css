@@ -11,20 +11,12 @@ body {
   background: #456990;
   color: #fff;
   overflow-x: hidden;
-  padding-bottom: 50px;
-}  /* INTRO SECTION
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.imagens {
-  
-  width: 50%;
-  position: center;
-  margin-left: 25%;
-}
+}  
 
-.imagens-pequenas {
-  
-  width: 25%;
-  margin-left: 25%;
+.imagens {
+  min-height: 200px;
+  max-height: 250px;
+  max-width: 370px;
 }
 
 .intro {
@@ -129,8 +121,6 @@ time {
   font-size: 1.2rem;
   font-weight: bold;
   margin-bottom: 8px;
-  font-weight: bold;
- 
 }
 
 
