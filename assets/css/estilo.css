@@ -11,12 +11,27 @@ body {
   background: #456990;
   color: #fff;
   overflow-x: hidden;
+<<<<<<< HEAD:assets/css/estilo.css
 }  
 
 .imagens {
   min-height: 200px;
   max-height: 250px;
   max-width: 370px;
+=======
+  padding-bottom: 50px;
+}  /* INTRO SECTION
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.imagens {
+  width: 50%;
+  position: center;
+  margin-left: 25%;
+}
+
+.imagens-pequenas {
+  width: 25%;
+  margin-left: 25%;
+>>>>>>> 75e27c0ef4261fb5f5b3ad47912684f4e364b92e:assets/css/estilo.css
 }
 
 .intro {
